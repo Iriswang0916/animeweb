@@ -1,0 +1,20 @@
+Introduction of Hikaru No Go(an japanese animation)
+
+My program includes 4 web pages. The landing page is a navigation page which includes the headline, the navigation part and footer.
+Navigation part looks like a go game board with 4 buttons on it, just like a real go game. Each button turns to a new page--the introduction to characters, the plot of animation, brief introduction to go game and the official website to watch Hikaru No Go.
+My webpage structure is drawn on the picture.
+The color scheme is also provided with a picture, which is a combination of  Cinnabar, Jasmine, White and Charcoal.
+
+
+
+
+css cascade
+css selectors
+css float flex grid
+CRAP
+gestulf
+fonts font stucks
+box model(block element)
+inline model
+trable（排序）
+http
